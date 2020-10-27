@@ -51,7 +51,7 @@ Denegado al no tener un usuario registrado.
 
 Acceso a la ventana secundaria al tener un usuario registrado.
 
-![](Figures/Secundaria.png)
+![](Figures/Secundario.png)
 
 Informacion dentro del archivo(Usuario y contraseña(Cifrado en SHA256)).
 

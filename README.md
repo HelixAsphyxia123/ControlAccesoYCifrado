@@ -38,17 +38,22 @@
 # Resultados.
 
 Elementos visuales/vista.
+
 ![](Figures/Vista.png)
 
 Aceptado al tener un usuario registrado.
+
 ![](Figures/Aceptado.png)
 
 Denegado al no tener un usuario registrado.
+
 ![](Figures/Denegado.png)
 
 Acceso a la ventana secundaria al tener un usuario registrado.
+
 ![](Figures/Secundaria.png)
 
 Informacion dentro del archivo(Usuario y contraseña(Cifrado en SHA256)).
+
 ![](Figures/Archivo.png)
  

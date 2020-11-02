@@ -8,6 +8,12 @@
  
  *https://flipgrid.com/baed9531*
  
+ # Biblioteca.
+ 
+ *Se creo una carpeta donde se encuentra el cifrado para poder usarlo como una biblioteca (nuestro docente sabe como realizarlo).*
+ 
+ *Se creo un .jar como ejecutable para empaquetar nuestras clases y asi ser posible usar nuestras bibliotecas.*
+ 
  # *Elementos visuales y funcionamiento.*
  *~Dos textLabel que nos muestran en que parte hay que ingresar nuestras credenciales(password y contraseña).*
  
